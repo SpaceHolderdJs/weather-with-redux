@@ -1,0 +1,26 @@
+@keyframes append {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes roll-up {
+  0% {
+    opacity: 0;
+    transform: translateX(-30px) rotateZ(0deg);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: translateX(0px) rotateZ(180deg);
+  }
+
+  100% {
+    opacity: 1;
+    transform: rotateZ(0deg);
+  }
+}
