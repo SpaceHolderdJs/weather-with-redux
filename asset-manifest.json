@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-with-redux/static/css/main.ed6bec0c.chunk.css",
+    "main.js": "/weather-with-redux/static/js/main.0ea94088.chunk.js",
+    "main.js.map": "/weather-with-redux/static/js/main.0ea94088.chunk.js.map",
+    "runtime-main.js": "/weather-with-redux/static/js/runtime-main.f621ceab.js",
+    "runtime-main.js.map": "/weather-with-redux/static/js/runtime-main.f621ceab.js.map",
+    "static/js/2.bbcfe904.chunk.js": "/weather-with-redux/static/js/2.bbcfe904.chunk.js",
+    "static/js/2.bbcfe904.chunk.js.map": "/weather-with-redux/static/js/2.bbcfe904.chunk.js.map",
+    "static/js/3.a8e0efbf.chunk.js": "/weather-with-redux/static/js/3.a8e0efbf.chunk.js",
+    "static/js/3.a8e0efbf.chunk.js.map": "/weather-with-redux/static/js/3.a8e0efbf.chunk.js.map",
+    "index.html": "/weather-with-redux/index.html",
+    "static/css/main.ed6bec0c.chunk.css.map": "/weather-with-redux/static/css/main.ed6bec0c.chunk.css.map",
+    "static/js/2.bbcfe904.chunk.js.LICENSE.txt": "/weather-with-redux/static/js/2.bbcfe904.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f621ceab.js",
+    "static/js/2.bbcfe904.chunk.js",
+    "static/css/main.ed6bec0c.chunk.css",
+    "static/js/main.0ea94088.chunk.js"
+  ]
+}
